@@ -9,4 +9,4 @@
  4. Color-gradients
  5. Background Images, Background Videos and more....
 
-https://www.udemy.com/course/advanced-css-and-sass/ - automatic!
+Course: https://www.udemy.com/course/advanced-css-and-sass/
